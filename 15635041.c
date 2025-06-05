@@ -5,7 +5,7 @@
 /**                                                                 **/
 /**   Segundo Exercicio-Programa                                    **/
 /**                                                                 **/
-/**   <nome do(a) aluno(a)>                   <numero USP>          **/
+/**   <Arthur Jacintho de Oliveira Santos>                   <15635041>          **/
 /**                                                                 **/
 /*********************************************************************/
 
